@@ -39,9 +39,15 @@
 - Tetris
   
 ## 信号処理フェーズ
+### pcap→csv変換
+- 変換方法：CSI Extracterプログラム(.py)
+
 ### ノイズ除去アルゴリズム
-- 移動平均
-- ローパスフィルター
+- 移動平均フィルター
+  <img width="200" alt="image" src="https://github.com/haradakaito/NexmonCSI/assets/75819611/6fb91af0-3c48-4f22-b4a6-8a21317f4df7">
+
+- Savitzky-Golayフィルター
+- 
   
 ### データ分割
 - Train：Val：Test = 6 : 2 : 2
