@@ -6,12 +6,14 @@
 ### 実験デバイス  
 - CSI収集デバイス：RaspberryPi 4B  
 - Wi-Fiルーター：ASUS RT-AC86U  
-- Ping送信デバイス：dynabook GX83/MLE  
+- Ping送信デバイス：dynabook GX83/MLE
+- スマートデバイス：iphone12 / Galaxy
   
 ### 通信条件  
 - 帯域：2.4 / 5.0 [GHz]
 - 帯域幅：20 / 40 / 80 [MHz]
 - チャネル：任意
+- Ping送信デバイスとスマートデバイスの接続帯域が異なる
 
 ## データ収集フェーズ
 ### 収集条件
@@ -21,9 +23,12 @@
 - サンプリングレート：1 / 5 / 10 [Sample/s]
     
 ### スマートデバイス状態
-- 操作無し
-- オフライン
-- オンライン
+- LINE
+- Instagram
+- YouTube
+- TikTok
+- X(Twitter)
+- 
   
 ## 信号処理フェーズ
 ### ノイズ除去アルゴリズム
