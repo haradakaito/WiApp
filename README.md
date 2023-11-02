@@ -44,10 +44,11 @@
 
 ### ノイズ除去アルゴリズム
 - 移動平均フィルター
-  <img width="200" alt="image" src="https://github.com/haradakaito/NexmonCSI/assets/75819611/6fb91af0-3c48-4f22-b4a6-8a21317f4df7">
-
+  ウィンドウサイズ(SL:1)：1 / 5 / 10 / 20
+  ウィンドウサイズ(SL:5)：2 / 10 / 20 / 40
+  ウィンドウサイズ(SL:10)：10 / 50 / 100 / 200
+- ガウシアンフィルター
 - Savitzky-Golayフィルター
-- 
   
 ### データ分割
 - Train：Val：Test = 6 : 2 : 2
