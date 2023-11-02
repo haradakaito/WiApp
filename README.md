@@ -28,7 +28,15 @@
 - YouTube
 - TikTok
 - X(Twitter)
-- 
+- Facebook
+- Amazon
+- Minecraft
+- パズル&ドラゴンズ
+- モンスターストライク
+- eFootball
+- 荒野行動
+- ピッコマ
+- Tetris
   
 ## 信号処理フェーズ
 ### ノイズ除去アルゴリズム
