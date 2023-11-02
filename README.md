@@ -3,7 +3,7 @@
 ## Nexmonのセットアップ
 
 ## 実験環境
-- 実験デバイス  
+**- 実験デバイス**  
   CSI収集デバイス：RaspberryPi 4B  
   Wi-Fiルーター：ASUS RT-AC86U  
   Ping送信デバイス：dynabook GX83/MLE  
