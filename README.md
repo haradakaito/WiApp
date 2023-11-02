@@ -7,7 +7,7 @@
 - CSI収集デバイス：RaspberryPi 4B  
 - Wi-Fiルーター：ASUS RT-AC86U  
 - Ping送信デバイス：dynabook GX83/MLE
-- スマートデバイス：iphone12 / Galaxy
+- スマートデバイス：iphone12
   
 ### 通信条件  
 - 帯域：2.4 / 5.0 [GHz]
