@@ -7,7 +7,7 @@
 　本研究では, Nexmonを用いて(デバイスに対して)汎用性の高いCSI収集システムを構築し, スマートデバイスの状態推定という比較的局所的なパターンの分類タスクに対しての有効性を検証する. 
 
 ## 1. 既存研究
-  Wi-Fiセンシングに関するサーベイ論文<sup>2</sup>があるが
+  Wi-Fiセンシングに関するサーベイ論文として[2]があるが, 
 - 既存研究1
   
 ## 2. 実験環境
@@ -85,7 +85,7 @@
 
 ## 7. 参考文献
 **[[1]](https://dl.acm.org/doi/10.1145/3349623.3355477)** GRINGOLI, Francesco, et al. Free your CSI: A channel state information extraction platform for modern Wi-Fi chipsets. In: Proceedings of the 13th International Workshop on Wireless Network Testbeds, Experimental Evaluation & Characterization. 2019. p. 21-28.
-
+**[[2]](https://dl.acm.org/doi/abs/10.1145/3310194)** MA, Yongsen; ZHOU, Gang; WANG, Shuangquan. WiFi sensing with channel state information: A survey. ACM Computing Surveys (CSUR), 2019, 52.3: 1-36.
 
 ## Nexmonのセットアップ
 
