@@ -73,8 +73,9 @@
 - 個人差の検討
 - 環境差の検討
 - 損失関数
-- ソフトラベル\[^注釈]
+- ソフトラベル
 
 ## 7. 参考文献
-\[^注釈]:a
+1. GRINGOLI, Francesco, et al. Free your CSI: A channel state information extraction platform for modern Wi-Fi chipsets. In: Proceedings of the 13th International Workshop on Wireless Network Testbeds, Experimental Evaluation & Characterization. 2019. p. 21-28.
+2. 
   
