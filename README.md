@@ -25,7 +25,7 @@
 - Algorithm(アルゴリズム)：Learning-Besed(学習ベース)
 - Application(アプリケーション)：Recognition(認識)
 
-  Signal Procesingセクションに関しては, 単一のアプローチとは限らないため, AlgorithmとApplicationセクションにおいて, Learning-Based(学習ベース)のRecognition(認識)タスクを設定している研究の動向を調査した.   
+　Signal Procesingセクションに関しては, 単一のアプローチとは限らないため, AlgorithmとApplicationセクションにおいて, Learning-Based(学習ベース)のRecognition(認識)タスクを設定している研究の動向を調査した.   
 ### 1.1 Wi-Fi信号(CSI)を用いた局所的なジェスチャ認識[[3]](https://github.com/haradakaito/NexmonCSI/blob/main/README.md#7-%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE)  
 
   
