@@ -70,36 +70,29 @@
 
 ### 4.2 ノイズ除去アルゴリズム
 - NR(Noise Reduction)
-  ・WMA(Windows Media Audio) 2
-  ・Hampelフィルター 3
-  ・メディアンフィルター 4
-  ・CFO(Carrier Frequency Offset) 5
-  ・ガウシアンフィルター
-　・LOF(Local Outlier Factor) 3
 　・ローパスフィルター 7
+  ・CFO(Carrier Frequency Offset) 5
 　・ウェーブレットフィルター 5
+　・バターワース型ローパスフィルター/BPF 5(3+2)
+  ・メディアンフィルター 4
+  ・Hampelフィルター 3
+　・LOF(Local Outlier Factor) 3
+  ・WMA(Windows Media Audio) 2
 　・主成分分析フィルター 2
-　・バターワース型BPF 2
-　・バターワースフィルター
-　・バターワース型ローパスフィルター 2
 　・MA(Moving Average) 2
+
 - ST(Signal Transform)
-  ・高速フーリエ変換(FFT) 11
   ・DWT(Discrete Wavelet Transform) 12
-  ・短時間フーリエ変換(STFT) 5
-  ・逆フーリエ変換(IFFT) 3
+  ・高速フーリエ変換(FFT) 11
+
 - SE(Signal Extraction)
-  ・ローパスフィルター　6
-  ・ガウシアンローパスフィルター
-  ・バターワース型ローパスフィルター 4
-  ・主成分分析 12
   ・閾値 18
-  ・k-means 4
+  ・主成分分析(PCA) 12
   ・特徴量抽出 10
-  ・BPF(Band Pass Filter) 5
-  ・バターワース型BPF 
-  ・サブキャリア選択 4
-  
+  ・ローパスフィルター　6(10)
+  　・バターワース型 4
+  ・BPF(Band Pass Filter) 5(6)
+  　・バターワース型 1
 
 ### 4.3 データ分割
 - ダウンサンプリング
