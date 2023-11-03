@@ -70,69 +70,35 @@
 
 ### 4.2 ノイズ除去アルゴリズム
 - NR(Noise Reduction)
-  ・外れ値フィルター
   ・WMA(Windows Media Audio) 2
   ・Hampelフィルター 3
   ・メディアンフィルター 4
-  ・線形フィット
   ・CFO(Carrier Frequency Offset) 5
   ・ガウシアンフィルター
 　・LOF(Local Outlier Factor) 3
 　・ローパスフィルター 7
-　・MCSフィルター
-　・指数平滑法(Exponential Smoothing)
 　・ウェーブレットフィルター 5
 　・主成分分析フィルター 2
 　・バターワース型BPF 2
 　・バターワースフィルター
 　・バターワース型ローパスフィルター 2
-　・平均化
-　・Signall Nulling
-　・Birge-Massartフィルター
 　・MA(Moving Average) 2
-　・有限インパルス応答
-　・STO/SFO
-　・Multiple線形回帰
-　・閾値
-　・Distant Multi-path Removal
-　・Silence Removal
-　・Temporal Bias
-　・De-correlationフィルター
-　・Frequency/Temporal Smoothing
-　・Majority Vote
 - ST(Signal Transform)
   ・高速フーリエ変換(FFT) 11
-  ・線形変換
   ・DWT(Discrete Wavelet Transform) 12
   ・短時間フーリエ変換(STFT) 5
   ・逆フーリエ変換(IFFT) 3
 - SE(Signal Extraction)
   ・ローパスフィルター　6
   ・ガウシアンローパスフィルター
-  ・モジュレーションフィルター
   ・バターワース型ローパスフィルター 4
   ・主成分分析 12
   ・閾値 18
-  ・外れ値フィルター
-  ・固有値
   ・k-means 4
   ・特徴量抽出 10
-  ・特徴量選択
-  ・経験的モード分解(EMD)
-  ・クラスタチングマルチプルリンクス
   ・BPF(Band Pass Filter) 5
   ・バターワース型BPF 
-  ・Multiple APs
-  ・Multiple TXs
-  ・Multiple RXs
-  ・Locally Linear Embedding
-  ・Antenna Selection
-  ・Cumulative MSD
-  ・Interpolation
   ・サブキャリア選択 4
-  ・外挿法
-  ・シーケンス類似性
-  ・Signal Separation
   
 
 ### 4.3 データ分割
