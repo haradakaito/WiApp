@@ -70,25 +70,25 @@
 
 ### 4.2 ノイズ除去アルゴリズム
 - NR(Noise Reduction)  
-　・ローパスフィルター 7(10)  
-　　・バターワース型ローパスフィルター 3  
-　・CFO(Carrier Frequency Offset) 5  
-　・ウェーブレットフィルター 5  
-　・Hampelフィルター 3  
-　・MA(Moving Average) 2  
+　・ローパスフィルター  
+　　・バターワース型ローパスフィルター  
+　・CFO(Carrier Frequency Offset)  
+　・ウェーブレットフィルター  
+　・Hampelフィルター  
+　・移動平均フィルター  
 
 - ST(Signal Transform)  
-　・DWT(Discrete Wavelet Transform) 12  
-　・高速フーリエ変換(FFT) 11  
+　・DWT(Discrete Wavelet Transform)  
+　・高速フーリエ変換(FFT)  
 
 - SE(Signal Extraction)  
-　・閾値 18  
-　・主成分分析(PCA) 12  
-　・特徴量抽出 10  
-　・ローパスフィルター　6(10)  
-　　・バターワース型 4  
+　・閾値  
+　・主成分分析(PCA)  
+　・特徴量抽出  
+　・ローパスフィルター  
+　　・バターワース型  
 　・BPF(Band Pass Filter) 5(6)  
-　　・バターワース型 1  
+　　・バターワース型  
 
 ### 4.3 データ分割
 - ダウンサンプリング
