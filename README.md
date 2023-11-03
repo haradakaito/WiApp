@@ -12,7 +12,7 @@
  「Noise Reduction(ノイズ低減)」「Signal Transform(信号変換)」「Signal Extraction(信号抽出)」  
 - Algorithm(アルゴリズム)  
  「Modeling-Based(数式モデルベース)」「Learning-Based(学習ベース)」「Hybrid(ハイブリッド)」  
-- Application  
+- Application(アプリケーション)  
  「Detection(検出)」「Recognition(認識)」「Estimation(推定)」  
 - 既存研究1  
   
