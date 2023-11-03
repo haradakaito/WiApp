@@ -20,7 +20,7 @@
 
 ## 1. 既存研究
 　本研究のセクション属性は以下のようになる. 
-- Signal Processing(信号処理)：Signal Extraction(信号抽出)
+- Signal Processing(信号処理)：Noise Reduction(ノイズ低減) / Signal Transform(信号変換) / Signal Extraction(信号抽出)
 - Algorithm(アルゴリズム)：Learning-Besed(学習ベース)
 - Application(アプリケーション)：Recognition(認識)
 
