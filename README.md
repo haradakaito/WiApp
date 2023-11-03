@@ -71,7 +71,7 @@
 ### 4.2 ノイズ除去アルゴリズム
 - NR(Noise Reduction)  
 　・ローパスフィルター  
-　　・バターワース型ローパスフィルター  
+　　・バターワース型  
 　・CFO(Carrier Frequency Offset)  
 　・ウェーブレットフィルター  
 　・Hampelフィルター  
@@ -87,7 +87,7 @@
 　・特徴量抽出  
 　・ローパスフィルター  
 　　・バターワース型  
-　・BPF(Band Pass Filter) 5(6)  
+　・BPF(Band Pass Filter)  
 　　・バターワース型  
 
 ### 4.3 データ分割
