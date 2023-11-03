@@ -23,7 +23,6 @@
 - Signal Processing(信号処理)：Signal Extraction(信号抽出)
 - Algorithm(アルゴリズム)：Learning-Besed(学習ベース)
 - Application(アプリケーション)：Estimation(推定)
-- 既存研究1  
   
 ## 2. 実験環境
 ### 2.1 実験デバイス  
