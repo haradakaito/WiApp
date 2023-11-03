@@ -69,7 +69,7 @@
 - 変換方法：CSI Extracterプログラム(.py)
 
 ### 4.2 ノイズ除去アルゴリズム
-- NR(Noise Reduction)
+- NR(Noise Reduction)  
 　・ローパスフィルター 7
   ・CFO(Carrier Frequency Offset) 5
 　・ウェーブレットフィルター 5
@@ -81,11 +81,11 @@
 　・主成分分析フィルター 2
 　・MA(Moving Average) 2
 
-- ST(Signal Transform)
+- ST(Signal Transform)  
   ・DWT(Discrete Wavelet Transform) 12
   ・高速フーリエ変換(FFT) 11
 
-- SE(Signal Extraction)
+- SE(Signal Extraction)  
   ・閾値 18
   ・主成分分析(PCA) 12
   ・特徴量抽出 10
