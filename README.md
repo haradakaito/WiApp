@@ -16,9 +16,9 @@
  「Detection(検出)」「Recognition(認識)」「Estimation(推定)」  
 
 　本研究は,  
-　Signal Processing(信号処理)：Signal Extraction(信号抽出)  
-　Algorithm(アルゴリズム)：Learning-Besed(学習ベース)  
-　Application(アプリケーション)：Estimation(推定)  
+　`Signal Processing(信号処理)：Signal Extraction(信号抽出)`
+　`Algorithm(アルゴリズム)：Learning-Besed(学習ベース)`  
+　`Application(アプリケーション)：Estimation(推定)`  
 　に該当するため, 同様のセクションに分類される既存研究を以下に示す.   
   
 - 既存研究1  
