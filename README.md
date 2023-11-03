@@ -7,9 +7,9 @@
 　本研究では, Nexmonを用いて(デバイスに対して)汎用性の高いCSI収集システムを構築し, スマートデバイスの状態推定(特に, 操作アプリケーション)という比較的局所的なパターンの分類タスクに対しての, Nexmon及びそれを用いたCSI収集・分析システムの有効性を検証する.   
 
 ## 1. 既存研究
-  Wi-Fiセンシングに関するサーベイ論文として[[2]](https://github.com/haradakaito/NexmonCSI/blob/main/README.md#7-%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE)がある. この論文によると, Wi-Fiセンシング技術は3つのセクション「Signal Processing」「Algorithm」「Application」によって大別される. また, 各セクションにはそれぞれ3つの形態が存在すると示されている.   
+  Wi-Fiセンシングに関するサーベイ論文として[[2]](https://github.com/haradakaito/NexmonCSI/blob/main/README.md#7-%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE)がある. [2]Fig.1には, Wi-Fiセンシングの概要について示されており, Wi-Fiセンシングは3つのセクションで大別され, 各セクションが更に3種類のアプローチで構成されている. 以下に, 各セクションとアプローチを示す. 
 
-| Section  | Content |
+| Section  | Approach |
 | ------------- | ------------- |
 | Signal Processing(信号処理) | Noise Reduction(ノイズ低減), Signal Transform(信号変換), Signal Extraction(信号抽出) |
 | Algorithm(アルゴリズム)  | Modeling-Based(数式モデルベース), Learning-Based(学習ベース), Hybrid(ハイブリッド) |
