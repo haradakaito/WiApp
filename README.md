@@ -73,22 +73,22 @@
 　・ローパスフィルター 7(10)  
 　　・バターワース型ローパスフィルター 3  
 　・CFO(Carrier Frequency Offset) 5  
-　・ウェーブレットフィルター 5
+　・ウェーブレットフィルター 5  
 　・Hampelフィルター 3  
 　・MA(Moving Average) 2  
 
 - ST(Signal Transform)  
-  ・DWT(Discrete Wavelet Transform) 12  
-  ・高速フーリエ変換(FFT) 11  
+　・DWT(Discrete Wavelet Transform) 12  
+　・高速フーリエ変換(FFT) 11  
 
 - SE(Signal Extraction)  
-  ・閾値 18  
-  ・主成分分析(PCA) 12  
-  ・特徴量抽出 10  
-  ・ローパスフィルター　6(10)  
-  　・バターワース型 4
-  ・BPF(Band Pass Filter) 5(6)  
-  　・バターワース型 1
+　・閾値 18  
+　・主成分分析(PCA) 12  
+　・特徴量抽出 10  
+　・ローパスフィルター　6(10)  
+　　・バターワース型 4  
+　・BPF(Band Pass Filter) 5(6)  
+　　・バターワース型 1  
 
 ### 4.3 データ分割
 - ダウンサンプリング
