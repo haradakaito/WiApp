@@ -72,9 +72,9 @@
 - NR(Noise Reduction)  
 　・ローパスフィルター 7(10)  
 　　・バターワース型ローパスフィルター 3  
-  ・CFO(Carrier Frequency Offset) 5  
-　・ウェーブレットフィルター 5  
-  ・Hampelフィルター 3  
+　・CFO(Carrier Frequency Offset) 5  
+　・ウェーブレットフィルター 5
+　・Hampelフィルター 3  
 　・MA(Moving Average) 2  
 
 - ST(Signal Transform)  
