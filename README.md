@@ -8,12 +8,9 @@
 
 ## 1. 既存研究
   Wi-Fiセンシングに関するサーベイ論文として[[2]](https://github.com/haradakaito/NexmonCSI/blob/main/README.md#7-%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE)がある. この論文によると, Wi-Fiセンシング技術は3つのセクション「Signal Processing」「Algorithm」「Application」によって大別される. また, 各セクションにはそれぞれ3つの形態が存在すると示されている.   
-`Signal Processing(信号処理)  
- 「Noise Reduction(ノイズ低減)」「Signal Transform(信号変換)」「Signal Extraction(信号抽出)」  
-Algorithm(アルゴリズム)  
- 「Modeling-Based(数式モデルベース)」「Learning-Based(学習ベース)」「Hybrid(ハイブリッド)」  
-Application(アプリケーション)  
- 「Detection(検出)」「Recognition(認識)」「Estimation(推定)」`  
+`Signal Processing(信号処理)：「Noise Reduction(ノイズ低減)」「Signal Transform(信号変換)」「Signal Extraction(信号抽出)」`  
+`Algorithm(アルゴリズム)：「Modeling-Based(数式モデルベース)」「Learning-Based(学習ベース)」「Hybrid(ハイブリッド)」`  
+`Application(アプリケーション)：「Detection(検出)」「Recognition(認識)」「Estimation(推定)」`  
 
 　本研究は,  
 - Signal Processing(信号処理)：Signal Extraction(信号抽出)  
