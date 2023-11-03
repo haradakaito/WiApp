@@ -9,9 +9,7 @@
 　CSIデータは多くのWi-Fiチップメーカーは外部からのアクセス不可能にしていることが多く, CSIデータへのアクセスは容易ではない. 加えて, CSIデータへのアクセスを可能にするためのハードウェアとソフトウェアは共に高価であり, CSIデータを収集するにあたる制限が強い.そこで[[1]](https://github.com/haradakaito/NexmonCSI/blob/main/README.md#7-%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE)の論文中に示されるような, Nexmonと呼ばれるオープンソースのCSI収集用ファームウェアパッチを用いて, 比較的安価なデバイスでCSI収集を行う. Nexmonを用いることで従来のCSIが抱えるハードウェアとソフトウェア制限の強さを解消したCSI収集システムを構築することが可能である.   
 ### 本研究のモチベーション
 　本研究では, Nexmonを用いて(デバイスに対して)汎用性の高いCSI収集システムを構築し, スマートデバイスの状態推定(特に, 操作アプリケーション)という比較的局所的なパターンの分類タスクに対しての, Nexmon及びそれを用いたCSI収集・分析システムの有効性を検証する.   
-
-## 1. 既存研究
-  Wi-Fiセンシングに関するサーベイ論文として[[2]](https://github.com/haradakaito/NexmonCSI/blob/main/README.md#7-%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE)がある. [2]Fig.1には, Wi-Fiセンシングの概要について示されており, Wi-Fiセンシングは3つのセクションで大別され, 各セクションが更に3種類のアプローチで構成されている. 以下に, 各セクションとアプローチを示す. 
+　Wi-Fiセンシングに関するサーベイ論文として[[2]](https://github.com/haradakaito/NexmonCSI/blob/main/README.md#7-%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE)がある. [2]Fig.1には, Wi-Fiセンシングの概要について示されており, Wi-Fiセンシングは3つのセクションで大別され, 各セクションが更に3種類のアプローチで構成されている. 以下に, 各セクションとアプローチを示す. 
 
 | Section  | Approach |
 | ------------- | ------------- |
@@ -19,6 +17,7 @@
 | Algorithm(アルゴリズム)  | Modeling-Based(数式モデルベース), Learning-Based(学習ベース), Hybrid(ハイブリッド) |
 | Application(アプリケーション)  | Detection(検出), Recognition(認識), Estimation(推定) |
 
+## 1. 既存研究
 　本研究のセクションは以下のようになる. 
 - Signal Processing(信号処理)：Signal Extraction(信号抽出)
 - Algorithm(アルゴリズム)：Learning-Besed(学習ベース)
