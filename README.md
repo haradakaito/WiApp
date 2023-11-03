@@ -1,4 +1,4 @@
-# NexmonによるCSIを用いたスマートデバイス状態推定  
+# NexmonによるCSIを用いたスマートデバイス状態認識  
 ## 0. はじめに
 ### Wi-Fi(CSI)センシングの動機
 　IEEE 802.11規格の無線周波数Wi-Fiは, 携帯電話やラップトップPC, ゲーム機, テレビ等の様々なデバイスの通信に使用される無線LANとして普及している. 近年のWi-Fiは, デバイス通信ではなく, 人間活動認識(HAR)等の新しいセンシング手法として注目を集めている.   
@@ -23,6 +23,9 @@
 - Signal Processing(信号処理)：Signal Extraction(信号抽出)
 - Algorithm(アルゴリズム)：Learning-Besed(学習ベース)
 - Application(アプリケーション)：Recognition(認識)
+
+- Nexmonを用いた人間の活動認識
+- 
   
 ## 2. 実験環境
 ### 2.1 実験デバイス  
