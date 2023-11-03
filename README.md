@@ -19,7 +19,8 @@
 　本研究では, Nexmonを用いて(デバイスに対して)汎用性の高いCSI収集システムを構築し, スマートデバイスの状態推定(特に, 操作アプリケーション)という比較的局所的なパターンの分類タスクに対しての, Nexmon及びそれを用いたCSI収集・分析システムの有効性を検証する.   
 
 ## 1. 既存研究
-　本研究のセクション属性は以下のようになる. 
+　本研究のセクション属性は以下のようになる.  
+ 
 - Signal Processing(信号処理)：Noise Reduction(ノイズ低減) / Signal Transform(信号変換) / Signal Extraction(信号抽出)
 - Algorithm(アルゴリズム)：Learning-Besed(学習ベース)
 - Application(アプリケーション)：Recognition(認識)
