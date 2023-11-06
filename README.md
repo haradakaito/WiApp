@@ -73,8 +73,10 @@
 ```  
 $ cd CSI_changer
 $ python csi_changer.py
-Pcap File Name: "ファイル名"
-Band Width: 20 / 40 / 80
+
+-- 例 --
+Pcap File Name: App
+Band Width: 20
 > 0-100
 ```  
 
