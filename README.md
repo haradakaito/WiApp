@@ -68,7 +68,7 @@
   
 ## 4. 信号処理フェーズ
 ### 4.1 pcap→csv変換
-- 変換方法：CSI_changer(python)
+- 変換方法：CSI Extractor(csi_changer.py)
 
 ### 4.2 ノイズ除去アルゴリズム
 - NR(Noise Reduction)  
