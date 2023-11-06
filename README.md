@@ -70,6 +70,13 @@
 ## 4. 信号処理フェーズ
 ### 4.1 pcap→csv変換
 - 変換方法：CSI Extractor(csi_changer.py)
+```
+$ cd CSI_changer
+$ python csi_changer.py
+Pcap File Name: "ファイル名"
+Band Width: 20 / 40 / 80
+> 0-100
+```
 
 ### 4.2 ノイズ除去アルゴリズム
 - NR(Noise Reduction)  
