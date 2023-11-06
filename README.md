@@ -73,13 +73,13 @@
 ```  
 $ cd CSI_changer
 $ python csi_changer.py
-
--- 例 --
+```
+- 入力例
+```
 Pcap File Name: App
 Band Width: 20
 > 0-100
--------
-```  
+```
 
 ### 4.2 ノイズ除去アルゴリズム
 - NR(Noise Reduction)  
