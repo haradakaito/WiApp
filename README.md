@@ -78,6 +78,7 @@ $ python csi_changer.py
 Pcap File Name: App
 Band Width: 20
 > 0-100
+-------
 ```  
 
 ### 4.2 ノイズ除去アルゴリズム
