@@ -74,7 +74,7 @@
 $ cd CSI_changer
 $ python csi_changer.py
 ```
-- 入力例("帯域幅:20[MHz]" で収集された "App.pcap" の "0~100パケット" をcsvファイルに変換)
+- 入力例 ( "帯域幅:20[MHz]" で収集された "App.pcap" の "0~100パケット" をcsvファイルに変換)
 ```
 Pcap File Name: App
 Band Width: 20
